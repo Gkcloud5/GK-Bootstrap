@@ -1,0 +1,18 @@
+
+.container-lg a.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
+@media (min-width: 1200px){
+
+.container-lg {
+        width: 100%;
+        padding-right: 30px;
+        padding-left: 30px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+.container-lg {
+    max-width: 90%;
+}
+}
