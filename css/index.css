@@ -15,4 +15,22 @@
 .container-lg {
     max-width: 90%;
 }
+.row{
+    margin-right:0px;
+    margin-left:0px;
+    
+}
+}
+
+/*Hero background*/
+.hero-bg{
+    background-color: rgb(242,243,243);    
+    width: 100%;
+    height: 80vh;
+}
+
+@media (max-width: 1200px){
+    .hero-bg{
+        height: 60vh;
+    }
 }
