@@ -93,3 +93,28 @@
         justify-content: center;
     }
 }
+
+/*About section*/
+.about_head {
+    margin-top: 5vh;
+    margin-bottom: 2vh;
+}
+
+.about_sec_div{
+    margin-top: 3vh;
+}
+.about_div_info{
+    display: flex;
+    flex-direction: row;
+}
+.about_icon{
+    font-size: 30px;
+    width: 50px;
+}
+.about_div_details{
+    margin-left: 1vh;
+    display: flex;
+    flex-direction: column;
+    gap: 10px 0;
+    width: 90%;
+}
